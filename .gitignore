@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+glove/glove_s100.txt
+venv/
+.idea/
+start.py
